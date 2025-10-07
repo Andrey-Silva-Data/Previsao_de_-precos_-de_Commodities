@@ -1,2 +1,2 @@
-# Previsao_de_precos_-de_Commodities
+# Previsao_de_precos_de_Commodities
 Desafiado a desenvolver um modelo capaz de  prever retornos futuros de commodities usando dados históricos da London  Metal Exchange (LME), Japan Exchange Group (JPX), ações dos EUA e mercados  Forex...
